@@ -9,7 +9,7 @@
 
 ![For practitioners](https://img.shields.io/badge/for-psychologists%20%26%20coaches-3a362e) ![16 sheets](https://img.shields.io/badge/sheets-16-3a362e) ![RU + EN](https://img.shields.io/badge/lang-RU%20%7C%20EN-6b665d) ![CC BY 4.0](https://img.shields.io/badge/licence-CC%20BY%204.0-8a847a) [![Made by PairClear](https://img.shields.io/badge/made%20by-PairClear-b5613f?labelColor=16150f&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI%2BPHBhdGggZD0iTTEzIDVDNSAxMyA1IDI3IDEzIDM1TTI3IDVDMzUgMTMgMzUgMjcgMjcgMzUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI0LjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjIwIiBjeT0iMjAiIHI9IjQuNCIgZmlsbD0iI0UwOEE2MyIvPjwvc3ZnPg%3D%3D)](https://pairclear.com/en/experts/?utm_source=github&utm_medium=readme&utm_campaign=couples-counseling-kit)
 
-> **For trained practitioners.** These are working materials, not a method, a treatment protocol or a substitute for training and supervision. They have not been reviewed by a clinician. Adapt them to your training, your professional code and your country's law. No real client data appears anywhere in this repo: every example is invented.
+> **For trained practitioners.** These are working materials, not a method, a treatment protocol or a substitute for training and supervision. They have not been reviewed by a clinician. Adapt them to your training, your professional code and your country's law. No real client data appears anywhere in this repo: every example is invented. If a client is in danger, the usual route applies: emergency services (112 in Europe, 911 in the US and Canada) or a helpline from [findahelpline.com](https://findahelpline.com).
 
 ## See it in action
 

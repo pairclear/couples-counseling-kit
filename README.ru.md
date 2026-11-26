@@ -9,7 +9,7 @@
 
 ![Для специалистов](https://img.shields.io/badge/для-психологов%20и%20коучей-3a362e) ![16 листов](https://img.shields.io/badge/листов-16-3a362e) ![RU + EN](https://img.shields.io/badge/lang-RU%20%7C%20EN-6b665d) ![CC BY 4.0](https://img.shields.io/badge/лицензия-CC%20BY%204.0-8a847a) [![Сделано PairClear](https://img.shields.io/badge/сделано-PairClear-b5613f?labelColor=16150f&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI%2BPHBhdGggZD0iTTEzIDVDNSAxMyA1IDI3IDEzIDM1TTI3IDVDMzUgMTMgMzUgMjcgMjcgMzUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI0LjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjIwIiBjeT0iMjAiIHI9IjQuNCIgZmlsbD0iI0UwOEE2MyIvPjwvc3ZnPg%3D%3D)](https://pairclear.com/ru/experts/?utm_source=github&utm_medium=readme&utm_campaign=couples-counseling-kit)
 
-> **Для специалистов с подготовкой.** Это рабочие материалы, а не метод, протокол лечения или замена обучению и супервизии. Клиницист их не проверял. Адаптируйте под свою подготовку, профессиональный кодекс и законы своей страны. Реальных данных клиентов в репозитории нет: все примеры выдуманы.
+> **Для специалистов с подготовкой.** Это рабочие материалы, а не метод, протокол лечения или замена обучению и супервизии. Клиницист их не проверял. Адаптируйте под свою подготовку, профессиональный кодекс и законы своей страны. Реальных данных клиентов в репозитории нет: все примеры выдуманы. Если клиенту угрожает опасность, действует обычный порядок: экстренные службы (112 в Европе, 911 в США и Канаде) или горячая линия с [findahelpline.com](https://findahelpline.com).
 
 ## Как это выглядит
 

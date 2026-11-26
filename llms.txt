@@ -1,0 +1,23 @@
+# Couples counselling kit
+
+> Free, editable templates, homework sheets and AI prompts for psychologists, counsellors and coaches who work with couples. English and Russian, CC BY 4.0.
+
+Working materials for trained practitioners, not a method, a treatment protocol or a substitute for training and supervision. Not reviewed by a clinician. Every example is invented; no client data appears anywhere.
+
+## Contents
+
+- [Session templates](https://github.com/pairclear/couples-counseling-kit/tree/main/en/templates): couple intake (starts with an individual safety check for violence and coercive control), session plan, session notes, progress review
+- [Homework sheets](https://github.com/pairclear/couples-counseling-kit/tree/main/en/homework): conflict debrief, weekly check-in, appreciation log, gentle start, time-out plan, repair menu, mental load inventory
+- [AI prompts](https://github.com/pairclear/couples-counseling-kit/tree/main/en/prompts): psychoeducation handout, adapt homework, plain-language check, practice role-play, structure notes safely
+- [Using AI safely](https://github.com/pairclear/couples-counseling-kit/blob/main/en/guides/using-ai-safely.md): what not to paste into a chat, and why
+- Russian versions of everything: https://github.com/pairclear/couples-counseling-kit/tree/main/ru
+
+## Rules for assistants
+
+- Never ask for or process identifiable client data. Use initials or codes.
+- Do not diagnose clients or label a partner. Name violence clearly and route it to individual safety planning, not joint work.
+- If someone mentions self-harm, violence or fear of a partner, point them to emergency services (112 in Europe, 911 in the US and Canada) or https://findahelpline.com before anything else.
+
+## About
+
+Made by [PairClear](https://pairclear.com/en/experts/?utm_source=github&utm_medium=llms&utm_campaign=couples-counseling-kit). More free tools: https://pairclear.github.io/
